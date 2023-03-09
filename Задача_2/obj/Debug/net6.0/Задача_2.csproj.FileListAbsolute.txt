@@ -1,0 +1,15 @@
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/bin/Debug/net6.0/Задача_2
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/bin/Debug/net6.0/Задача_2.deps.json
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/bin/Debug/net6.0/Задача_2.runtimeconfig.json
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/bin/Debug/net6.0/Задача_2.dll
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/bin/Debug/net6.0/Задача_2.pdb
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.csproj.CoreCompileInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.dll
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/refint/Задача_2.dll
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.pdb
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/Задача_2.genruntimeconfig.cache
+/Users/kirillzaostrovskikh/Desktop/Home task S1/Задача_2/obj/Debug/net6.0/ref/Задача_2.dll
